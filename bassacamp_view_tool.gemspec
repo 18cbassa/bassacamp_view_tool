@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %{Provides generated HTML data for Rials applications.}
   spec.homepage      = "https://cbassa18-cloned-cbassa18.c9users.io/"
-
+  spec.license       = "MIT"
 
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|

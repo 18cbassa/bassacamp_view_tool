@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BassacampViewTool::Renderer.copyright 'Cherifa B', 'All rights reserved'
+```
 
 ## Development
 
